@@ -1,4 +1,4 @@
-# Gensys-Testnet-Node-
+# Gensys-Testnet-Node-Guide
 
 ### The Gensyn Protocol is a layer-1 trustless protocol for deep learning computation that directly and immediately rewards supply-side participants for pledging their compute time to the network and performing ML tasks.
 -------------------
